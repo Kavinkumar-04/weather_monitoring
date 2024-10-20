@@ -1,4 +1,4 @@
-# FIT3077-Weather-monitor-desktop-app
+# FIT3077-Weather-monitoring
 
 
 ## Requirement
