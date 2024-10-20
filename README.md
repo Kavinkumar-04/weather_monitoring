@@ -15,5 +15,5 @@
 ## Install Instruction
 - make sure all required components are installed
 - clone the repo to local directory 
-- direct the command prompt to the source folder
+- direct the command prompt to the source folder 
 - run the command **python -B driver.py** to initiate the app
