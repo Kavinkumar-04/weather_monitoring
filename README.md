@@ -1,4 +1,4 @@
-# FIT3077-Weather-monitoring
+# Weather-monitoring
 
 
 ## Requirement
